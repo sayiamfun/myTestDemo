@@ -1,5 +1,8 @@
 package com.sayiamfun.mytestdemo.designpatterns.strategy;
 
+/**
+ * 策略模式
+ */
 public class Test {
 
     public static void main(String[] args) {

@@ -2,6 +2,7 @@ package com.sayiamfun.mytestdemo.designpatterns.delegate;
 
 
 /**
+ * 委派模式
  * @Project: spring
  * @description:  boss  模拟客户执行任务
  * @ModificationHistory who      when       What
